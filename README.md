@@ -117,11 +117,12 @@
 * Check [info.py](https://github.com/Mayavi333/Tsunade-auto-filter/blob/master/info.py) for more optional variables
 
 
+
 <details><summary>Deploy To Heroku</summary>
-<p>
 <br>
+<p>
 <a href="https://heroku.com/deploy?template=https://github.com/Rock11178/Tsunade-auto-filter1111">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
